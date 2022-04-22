@@ -1,0 +1,13 @@
+name: cc_crystal
+version: 0.1.0
+
+authors:
+  - anq547 <htt547@posteo.net>
+
+targets:
+  cc_crystal:
+    main: src/cc_crystal.cr
+
+crystal: 1.4.0
+
+license: MIT
